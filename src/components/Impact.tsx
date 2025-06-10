@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { BarChart3, School, Users, Shield } from 'lucide-react';
+import { BarChart3, BookOpen, School, Users, Shield } from 'lucide-react';
 
 export const Impact = () => {
   const stats = [
